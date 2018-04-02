@@ -66,6 +66,10 @@ https://github.com/dennybritz/cnn-text-classification-tf
 
 He also wrote a [nice tutorial](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow) on it, as well as a general tutorial on [CNNs for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp).
 
+#### Keras
+
+https://github.com/alexander-rakhlin/CNN-for-Sentence-Classification-in-Keras
+
 #### Torch
 [HarvardNLP](http://harvardnlp.github.io/) group has an implementation in Torch.
 
